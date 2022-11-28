@@ -31,3 +31,9 @@ for (...)
 {
 }
 ```
+
+Pointers
+```c
+int* ptr;
+int *ptr;
+```
